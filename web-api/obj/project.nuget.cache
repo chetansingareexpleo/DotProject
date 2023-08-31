@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yeurWKguWG5nHyvhi/zblgjPs6yi1uBfPq0wlG7a1mLdjEkusYrxPh9Fdw+6vZN3+kpbJES68261Mx8ST6yrVA==",
+  "dgSpecHash": "q3piHPrm/7HkG5wRvxUVYmOwWP3TLJdHv4bfEPiIYdUuYkHcbJ3WJBLhlbILVrkduiA4RwFKQBaUUjVA3GS8hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\csingare\\Desktop\\dotnetcoretest\\unit-testing-aspnetcore-webapi-master\\netcore-unit-testing\\web-api\\web-api\\web-api.csproj",
+  "projectFilePath": "C:\\Users\\csingare\\Desktop\\DotProject\\web-api\\web-api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\csingare\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
     "C:\\Users\\csingare\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\csingare\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
     "C:\\Users\\csingare\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
     "C:\\Users\\csingare\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
   ],
