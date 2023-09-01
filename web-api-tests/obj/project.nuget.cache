@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tqWEMnmLP0GaqACBZFp5G1sQ6PD8iWs8Be6pvJVeKBKymvSYPX12VOjpOTblUhcnojDYokSYmLjJ0B1dyxrLvQ==",
+  "dgSpecHash": "Xapqw21Jw9g28IxpVHWzaI7t6gXcMOidfHwu4AFFkXK3rGtbey6DBEUq+yFVa4cLBkijjPDdNRqvmzvDsAsh4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\csingare\\Desktop\\DotProject\\web-api-tests\\web-api-tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\csingare\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\csingare\\.nuget\\packages\\coverlet.msbuild\\6.0.0\\coverlet.msbuild.6.0.0.nupkg.sha512",
     "C:\\Users\\csingare\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\csingare\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\csingare\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",

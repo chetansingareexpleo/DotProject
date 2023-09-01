@@ -17,8 +17,18 @@ namespace web_api.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            var items = _service.GetAllItems();
+             var items = _service.GetAllItems();
             return Ok(items);
+        }
+
+      [HttpGet("demo")]
+
+        public IActionResult Get(int a)
+
+        {
+
+             return Ok("Hello Expleo");
+
         }
 
         [HttpGet("{id}")]

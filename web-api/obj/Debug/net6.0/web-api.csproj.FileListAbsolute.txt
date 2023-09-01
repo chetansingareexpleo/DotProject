@@ -31,7 +31,6 @@ C:\Users\csingare\Desktop\DotProject\web-api\bin\Debug\net6.0\web-api.deps.json
 C:\Users\csingare\Desktop\DotProject\web-api\bin\Debug\net6.0\web-api.runtimeconfig.json
 C:\Users\csingare\Desktop\DotProject\web-api\bin\Debug\net6.0\web-api.dll
 C:\Users\csingare\Desktop\DotProject\web-api\bin\Debug\net6.0\web-api.pdb
-C:\Users\csingare\Desktop\DotProject\web-api\obj\Debug\net6.0\web-api.csproj.AssemblyReference.cache
 C:\Users\csingare\Desktop\DotProject\web-api\obj\Debug\net6.0\web-api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\csingare\Desktop\DotProject\web-api\obj\Debug\net6.0\web-api.AssemblyInfoInputs.cache
 C:\Users\csingare\Desktop\DotProject\web-api\obj\Debug\net6.0\web-api.AssemblyInfo.cs
