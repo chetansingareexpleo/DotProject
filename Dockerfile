@@ -14,5 +14,5 @@ RUN apt-get install -y \
 WORKDIR /dockerdotnet
 COPY web-api/bin/Debug/net6.0/publish/* .
 EXPOSE 5000
-#ENTRYPOINT ["dotnet", "/dockerdotnet/web-api.dll"]
+ENTRYPOINT ["dotnet", "/dockerdotnet/web-api.dll"]
 
